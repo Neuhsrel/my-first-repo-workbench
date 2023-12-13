@@ -1,0 +1,23 @@
+commit 903a80e7fac44491f18e41e1843d88a72f3790af
+Author: Neuhsrel <lershuenpuah25@gmail.com>
+Date:   Wed Dec 13 21:02:59 2023 +0800
+
+    Edited readme.txt
+
+commit eefa63db7f1aa455348d961023c628dd1982c24e
+Author: Neuhsrel <lershuenpuah25@gmail.com>
+Date:   Wed Dec 13 20:58:49 2023 +0800
+
+    Added .gitignore and included jpg files
+
+commit 713979896839e4691f23e8c8838852cdd1582b50
+Author: Neuhsrel <lershuenpuah25@gmail.com>
+Date:   Wed Dec 13 20:27:26 2023 +0800
+
+    Added file1 and file2
+
+commit 3cc735db6d52d5cf5e1cb51c892c37f444d4a11b
+Author: Neuhsrel <lershuenpuah25@gmail.com>
+Date:   Wed Dec 13 20:20:34 2023 +0800
+
+    Added readme.txt
